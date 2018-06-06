@@ -2,9 +2,39 @@
   Hoff Goods!
 */
 
+@font-face {
+  font-family: 'Menlo Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Menlo Regular'), url('Menlo-Regular.woff') format('woff');
+}
+
+* {
+  font-family: 'Menlo Regular' !important;
+}
+
+.hoff-peach {
+  color: #fbcbc1;
+}
+
+.hoff-yellow {
+  color: #f1dc14;
+}
+
+.hoff-blue {
+  color: #0293b2;
+}
+
+.hoff-contrast {
+  color: #7d7d7d;
+}
 
 .site-footer {
   background-color: #333;
   margin: 55px 0 0 0;
   padding-bottom: 55px;
+}
+
+.btn.newsletter__submit {
+  background-color: #0293b2;
 }
