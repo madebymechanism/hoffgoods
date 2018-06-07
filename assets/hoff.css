@@ -38,3 +38,28 @@
 .btn.newsletter__submit {
   background-color: #0293b2;
 }
+
+.site-nav {
+  background-color: #333;
+  margin-bottom: 0;
+  padding: 15px 0px 10px 0px;
+}
+
+.site-nav a {
+  color: white;
+}
+
+.site-nav__dropdown {
+  top: 34px;
+  background-color: #333;
+  border: 1px solid #333;
+}
+
+.hoff-instagram {
+
+}
+
+.hoff-instagram h2 {
+  width: 100%;
+  text-align: center;
+}

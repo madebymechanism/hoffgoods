@@ -10,7 +10,7 @@ assets/gift-card.js:
 assets/gift-card.scss.liquid:
   development: 2018-06-06T09:37:17-07:00   647ae860a3a785081fa97f55b66cea83
 assets/hoff.css:
-  development: 2018-06-06T10:02:52-07:00   2ecacffd81bc7bac7abac1346d564929
+  development: 2018-06-06T13:20:35-07:00   e061111bcca11da739a6d61257ba2380
 assets/ico-select.svg.liquid:
   development: 2018-06-06T09:37:17-07:00   28de0c672609528b7c55f6f47810784b
 assets/icon-slideshow-left.svg.liquid:
@@ -100,7 +100,7 @@ sections/featured-video.liquid:
 sections/footer.liquid:
   development: 2018-06-06T10:22:03-07:00   710503e0b5903847b2b9271d584dcbe0
 sections/header.liquid:
-  development: 2018-06-06T09:37:15-07:00   79e90be3ecdb349a38715427ba56fa5b
+  development: 2018-06-06T12:38:48-07:00   ccb2c85b19bf5857b4ce796573dd32ae
 sections/hero.liquid:
   development: 2018-06-06T09:37:15-07:00   d45cf37312b64d6e7511bdba56256758
 sections/image-bar.liquid:
@@ -310,7 +310,7 @@ templates/customers/reset_password.liquid:
 templates/gift_card.liquid:
   development: 2018-06-06T09:37:22-07:00   16c95e9922ddd30e37f0cf018e86597c
 templates/index.liquid:
-  development: 2018-06-06T09:37:22-07:00   56b51b6f96394db4b17c64b43e1c0010
+  development: 2018-06-06T13:23:17-07:00   d2ff088c7b5bc24f99f20fe4d0c8e61e
 templates/list-collections.liquid:
   development: 2018-06-06T09:37:22-07:00   d42f6d6957169811896f646709d353d9
 templates/page.contact.liquid:
